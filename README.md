@@ -28,7 +28,7 @@ Applying stabilized lottery ticket to Transformer, i.e. the "Stabilizing" paper.
 
 
 
-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389
+[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389)
 
 
 
